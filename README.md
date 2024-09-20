@@ -1,7 +1,7 @@
+## Chat with Firebase Firestor Collections in ChatGPT 
+Create your own custom GPT to fetch Firestore data and query your database in ChatGPT for AI insightts. Skp building an admin dashboard and chat with natural language to get inights into your Firebase project. Use OpenAI function calling to get AI-powered admin experience in ChatGPT sidebar or use @ in a regular chat.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
 First, run the development server:
 
 ```bash
